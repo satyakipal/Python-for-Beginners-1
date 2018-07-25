@@ -1,4 +1,4 @@
-# Python4Biginners-1
+# Python-for-Beginners-1
 This Repository is made to cover the basics of python. It includes installation,fundamental concepts,smaller tricks to make working with Python easy.
 If you are new to programming world, or if you are searching for a Simple yet Powerful programming language, Python is one of those rare languages you are searching for.It will definately surprise you and make you feel powerful once you discover how easy it is to concentrate on the solution of a problem rather than its syntax.
 ## Target Audience
