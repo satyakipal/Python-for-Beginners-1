@@ -28,7 +28,7 @@ That didn't worked. How about numbers?
 
 ```
 
-Here we Go :) .. Our first Python statement without an error.. 
+Here we Go : ) .. Our first Python statement without an error.. 
 
 ### The Anchors
 
@@ -45,4 +45,31 @@ They can be created by typing a
 -1234
 
 ```
+
+### print()
+One built-in function that we will use most often is ` print() `.
+The print() function prints the specified message to the screen, or other standard output device.
+The message can be a string, or any other object, the object will be converted into a string before written to the screen.
+
+Let us study some examples to understand it better.
+```python
+>>> print("Python is Fun")
+Python is Fun
+>>> print(3+9)
+12
+
+```
+## Our First Program:
+Program to print `Hello World` to tthe Screen.
+
+```python
+>>> print("Hello World")
+Hello World
+```
+
+
+
+Go to next Chapter- [Working with Inputs](https://github.com/satyakipal/Python-for-Beginners-1/edit/master/Writing_first_program.md)
+
+
 
