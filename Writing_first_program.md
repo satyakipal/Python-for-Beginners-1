@@ -30,9 +30,19 @@ That didn't worked. How about numbers?
 
 Here we Go :) .. Our first Python statement without an error.. 
 
-### Our friend who does Announcements
+### The Anchors
 
 In any programming languages, a `comment` is a programmer-readable explanation or annotation in the source code(Lines we write in IDE ) of a  program.
 They are added with the purpose of making the source code easier for humans to understand, and are generally ignored by compilers and interpreters.
 
 ##### How do we call this friend
+They can be created by typing a
+`#` and then some text after it, and they are useful when our code would be hard to understand without them.
+```python
+>>> 1234 # I am printing 1234
+1234
+>>> -1234 # I am printing -1234
+-1234
+
+```
+
