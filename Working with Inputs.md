@@ -2,7 +2,7 @@
 Any information or data that is sent to a program for processing is considered ` Input `.But before you can play with Inputs, you need to store it in a place called ` Variables`.
 ### Where to store the Gifts
 The gifts from the users are stored in a place called `Variable`.
-#### variable
+#### Variable
  Variables are nothing but reserved memory locations to store values. 
  This means that when you create a variable you reserve some space in memory.
  Based on the data type of a variable, the interpreter allocates memory and decides what can be stored in the reserved memory.
@@ -25,7 +25,19 @@ The gifts from the users are stored in a place called `Variable`.
  Let us consider the following code:
  
  ```python
+ 
  >>>name=input("What is Your Name?")              #Line1
+ ...What is Your Name?                            #Line2
+ ...Satyaki                                       #Line3
+ >>>age=input("What is Your age?")              
+ ...What is Your age?
+ ...24
+ >>>print("Hi ", name)                            #Line4
+ >>>Hi Satyaki
+ >>>age                                           #Line5
+ >>>24
+ 
+ ```
  
  
  
