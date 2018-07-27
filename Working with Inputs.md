@@ -1,5 +1,7 @@
 ### The Gifts from the Users
 Any information or data that is sent to a program for processing is considered ` Input `.But before you can play with Inputs, you need to store it in a place called ` Variables`.
+
+Function used for taking input from user is `input()`. General Syntax: `input("Enter the messagae you want to show while asking for input")`
 ### Where to store the Gifts
 The gifts from the users are stored in a place called `Variable`.
 #### Variable
@@ -26,18 +28,32 @@ The gifts from the users are stored in a place called `Variable`.
  
  ```python
  
- >>>name=input("What is Your Name?")              #Line1
+ >>>name=input("What is Your Name..")              #Line1
  ...What is Your Name?                            #Line2
  ...Satyaki                                       #Line3
- >>>age=input("What is Your age?")              
+ >>>title=input("What is Your Title..")              
  ...What is Your age?
- ...24
+ ...Pal
  >>>print("Hi ", name)                            #Line4
  >>>Hi Satyaki
- >>>age                                           #Line5
- >>>24
+ >>>title                                           #Line5
+ >>>Pal
  
  ```
+ 
+` Line 1` takes the input from the user .
+ Parameter that is passed to input() is a string that displays a message while asking user to input any data.
+ It also store the information given by user in to a variable call "name"
+ 
+ `Line 2` Displays the message or the information provided to the user.
+ 
+ `Line 3` User inputs the data asked .
+ 
+ `Line 4` Prints the name along with a 'Hi' Salutation.
+ 
+ `Line 5`If we type any variable name and press Enter, value(s) stored in the variable is shown as an Output. 
+ 
+ 
  
  
  
