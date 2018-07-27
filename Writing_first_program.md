@@ -69,7 +69,7 @@ Hello World
 
 
 
-Go to next Chapter- [Working with Inputs](https://github.com/satyakipal/Python-for-Beginners-1/edit/master/Writing_first_program.md)
+Go to next Chapter- [Working with Inputs](https://github.com/satyakipal/Python-for-Beginners-1/blob/master/Working%20with%20Inputs.md)
 
 
 
