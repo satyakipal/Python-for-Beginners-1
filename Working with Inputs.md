@@ -29,14 +29,14 @@ The gifts from the users are stored in a place called `Variable`.
  ```python
  
  >>>name=input("What is Your Name..")              #Line1
- ...What is Your Name?                            #Line2
- ...Satyaki                                       #Line3
+ ...What is Your Name..                            #Line2
+ ...Satyaki                                        #Line3
  >>>title=input("What is Your Title..")              
- ...What is Your age?
+ ...What is Your age..
  ...Pal
- >>>print("Hi ", name)                            #Line4
+ >>>print("Hi ", name)                             #Line4
  >>>Hi Satyaki
- >>>title                                           #Line5
+ >>>title                                          #Line5
  >>>Pal
  
  ```
@@ -52,6 +52,8 @@ The gifts from the users are stored in a place called `Variable`.
  `Line 4` Prints the name along with a 'Hi' Salutation.
  
  `Line 5`If we type any variable name and press Enter, value(s) stored in the variable is shown as an Output. 
+ 
+ Continue to [Next Chapter]()
  
  
  
