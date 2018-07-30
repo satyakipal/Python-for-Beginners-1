@@ -33,7 +33,29 @@ Second Line: We have assigned multiple objects to multiple variables.[Try it Onl
 Python has five standard data types −
 
 * Numbers
-* String
-* List
-* Tuple
-* Dictionary
+* [String]()
+* [List]()
+* [Tuple]()
+* [Dictionary]()
+
+#### Python Numbers
+Number data types store numeric values. Number objects are created when you assign a value to them. For example −
+```python
+var1 = 1
+var2 = 10
+```
+You can also delete the reference to a number object by using the `del` statement. 
+```python
+del var
+del var_a, var_b
+```
+[Try it Online..](http://tpcg.io/WKTCEy)
+
+Python supports four different numerical types −
+
+* int (signed integers)
+* long (long integers, they can also be represented in octal and hexadecimal)
+* float (floating point real values)
+*complex (complex numbers)
+
+[Continue to Strings....]()
