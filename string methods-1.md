@@ -49,7 +49,7 @@ Contains substring 'be,'
 9
 
 ```
-[Try it online....](http://tpcg.io/0PFGSo)
+
 
 
 ## startswith()
@@ -84,7 +84,6 @@ False
 True
 
 ```
-[Try it online....](http://tpcg.io/0PFGSo)
 ### endswith(“string”, beg, end) :-
 The purpose of this function is to return true if the function ends with mentioned string(suffix) else return false.
 
@@ -115,7 +114,6 @@ True
 False
 
 ```
-[Try it online....](http://tpcg.io/0PFGSo)
 ### isupper(“string”) :-
 This function returns true if all the letters in the string are upper cased, otherwise false.
 
@@ -158,7 +156,6 @@ print (" The title case converted string is : " + str4)
  The title case converted string is : Man And Women Are All Equal
 
 ```
-[Try it online....](http://tpcg.io/0PFGSo)
 
 
 
