@@ -10,4 +10,5 @@ This repository serves as a guide or tutorial to the Python programming language
 * [Working with Inputs](https://github.com/satyakipal/Python-for-Beginners-1/blob/master/Working%20with%20Inputs.md)
 * [Variable Type](https://github.com/satyakipal/Python-for-Beginners-1/blob/master/variable%20types.md)
 * [String Fundamentals](https://github.com/satyakipal/Python-for-Beginners-1/blob/master/string%20fundamentals.md)
+* [String Methods-1]()
 
