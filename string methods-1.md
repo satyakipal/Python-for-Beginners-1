@@ -85,6 +85,41 @@ True
 
 ```
 [Try it online....](http://tpcg.io/0PFGSo)
+### endswith(“string”, beg, end) :-
+The purpose of this function is to return true if the function ends with mentioned string(suffix) else return false.
+
+
+## islower()
+The islower() method returns True if all alphabets in a string are lowercase alphabets. If the string contains at least one uppercase alphabet, it returns False.
+### Syntax:
+#### string.islower()
+The islower() method returns:
+* True if all alphabets that exist in the string are lowercase alphabets.
+* False if the string contains at least one uppercase alphabet.
+
+```python
+s = 'this is good'
+print(s.islower())
+
+s = 'th!s is a1so g00d'
+print(s.islower())
+
+s = 'this is Not good'
+print(s.isupper())
+
+  ```
+  ### Output
+```python
+>>>True
+True
+False
+
+```
+[Try it online....](http://tpcg.io/0PFGSo)
+### isupper(“string”) :-
+This function returns true if all the letters in the string are upper cased, otherwise false.
+
+
 
 
   
