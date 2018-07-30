@@ -37,7 +37,7 @@ Hello, welcome to
 Python strings are "immutable" which means they cannot be changed after they are created.
 We can simply reassign different strings to the same name.
 ```python
-a = 'Geeks'
+a = 'Satyaki'
 print a       # output is displayed
 a[2] = 'E'
 print a       # causes error
@@ -48,3 +48,47 @@ print a       # causes error
 TypeError: 'str' object does not support item assignment
 
 ```
+### Accessing characters in a string
+We can access individual characters using indexing and a range of characters using slicing. Index starts from 0. 
+Characters in a string can be accessed using the standard [ ] syntax
+```python
+s = 'hi'
+print s[1]   
+```
+This will print "i"
+
+Python allows negative indexing for its sequences.
+The index of -1 refers to the last item, -2 to the second last item and so on.
+We can access a range of items in a string by using the slicing operator (colon).
+```python
+str = 'satyakipal'
+print('str = ', str)
+
+#first character
+print('str[0] = ', str[0])
+
+#last character
+print('str[-1] = ', str[-1])
+
+#slicing 2nd to 5th character
+print('str[1:5] = ', str[1:5])
+
+#slicing 6th to 2nd last character
+print('str[5:-2] = ', str[5:-2])
+```
+This will give the following output
+```python
+>>>str =  satyakipal
+str[0] =  s
+str[-1] =  l
+str[1:5] =  atya
+str[5:-2] =  kip
+```
+
+### String Sclicing
+The "slice" syntax is a handy way to refer to sub-parts of sequences -- typically strings and lists. The slice s[start:end] is the elements beginning at start and extending up to` but not including end`. 
+
+Suppose we have s = "Hello"
+
+
+
