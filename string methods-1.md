@@ -120,6 +120,48 @@ False
 This function returns true if all the letters in the string are upper cased, otherwise false.
 
 
+## lower(),upper(),swapcase(),title() 
+* lower() :- This function returns the new string with all the letters converted into its lower case.
+
+* upper() :- This function returns the new string with all the letters converted into its upper case.
+ 
+* swapcase() :- This function is used to swap the cases of string i.e upper case is converted to lower case and vice versa.
+
+* title() :- This function converts the string to its title case i.e the first letter of every word of string is upper cased and else all are lower cased.
+
+
+
+```python
+str = "Man and WOmen ARE all EqUal"
+ 
+# Coverting string into its lower case
+str1 = str.lower();
+print (" The lower case converted string is : " + str1)
+ 
+# Coverting string into its upper case
+str2 = str.upper();
+print (" The upper case converted string is : " + str2)
+ 
+# Coverting string into its swapped case
+str3 = str.swapcase();
+print (" The swap case converted string is : " + str3)
+ 
+# Coverting string into its title case
+str4 = str.title();
+print (" The title case converted string is : " + str4)
+  ```
+  ### Output
+```python
+>>>TThe lower case converted string is : man and women are all equal
+ The upper case converted string is : MAN AND WOMEN ARE ALL EQUAL
+ The swap case converted string is : mAN AND woMEN are ALL eQuAL
+ The title case converted string is : Man And Women Are All Equal
+
+```
+[Try it online....](http://tpcg.io/0PFGSo)
+
+
+
 
 
   
