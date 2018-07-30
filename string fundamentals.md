@@ -61,7 +61,7 @@ Python allows negative indexing for its sequences.
 The index of -1 refers to the last item, -2 to the second last item and so on.
 We can access a range of items in a string by using the slicing operator (colon).
 ```python
-str = 'satyakipal'
+str = "satyakipal"
 print('str = ', str)
 
 #first character
