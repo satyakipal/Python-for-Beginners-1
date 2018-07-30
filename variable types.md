@@ -33,7 +33,7 @@ Second Line: We have assigned multiple objects to multiple variables.[Try it Onl
 Python has five standard data types −
 
 * Numbers
-* [String]()
+* [String](https://github.com/satyakipal/Python-for-Beginners-1/blob/master/string-1.md)
 * [List]()
 * [Tuple]()
 * [Dictionary]()
@@ -58,4 +58,4 @@ Python supports four different numerical types −
 * float (floating point real values)
 * complex (complex numbers)
 
-[Continue to Strings....]()
+[Continue to Strings....](https://github.com/satyakipal/Python-for-Beginners-1/blob/master/string-1.md)
