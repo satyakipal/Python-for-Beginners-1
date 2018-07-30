@@ -106,5 +106,31 @@ The standard zero-based index numbers give easy access to chars near the start o
 
 It is a neat truism of slices that for any index n, s[:n] + s[n:] == s. This works even for n negative or out of bounds. Or put another way s[:n] and s[n:] always partition the string into two string parts, conserving all the characters. As we'll see in the list section later, slices work with lists too.
 
+### How to print single quote or double quote on screen?
+We can do that in the following two ways:
+
+* First one is to use escape character to display the additional quote.
+* The second way is by using mix quote, i.e., when we want to print single quote then using double quotes as delimiters and vice-versa.
+Example-
+
+print "Hi Mr Goose."
+```python 
+# use of escape sequence
+print ("He said, \"Welcome to Goossy World\"" )   
+ 
+print ("'Hey so happy to be here'")
+ 
+# use of mix quotes
+print ('Getting Goosy, "Loving it"')               
+```
+Output:
+```python
+>>>Hi Mr Goose.
+He said, "Welcome to Goossy World"
+Hey so happy to be here
+Getting Goosy, "Loving it"
+```
+
+
 
 
